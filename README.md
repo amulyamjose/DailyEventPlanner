@@ -1,6 +1,7 @@
 # DailyEventPlanner
 - A daily planner that allows users to import events, edit the planner, and output events using Java in a group project
 - Applied programming concepts such as object oriented programming, File I/O, and various testing strategies
+- Dates Worked: April 2023
 
 Link to Report: https://docs.google.com/document/d/1y7BGy3d5Z1L61oXHXbMUx7_4jFOFtgcpWS8T7zbhmuo/edit?usp=sharing
 
